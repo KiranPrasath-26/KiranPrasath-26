@@ -6,9 +6,9 @@ A passionate, self-motivated student. I always strive for solutions that are cre
 - 🌱 I’m currently learning ROS and Deep Learning 
 - 📫 How to reach me: kiranprasath.dk2020@vitstudent.ac.in 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KiranPrasath-26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kiran-prasath/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kiran_prasath_dk/)  
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kiran-prasath/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kiran_prasath_dk/)  
 
 ## 🧰 Languages and Tools:
 <div>
